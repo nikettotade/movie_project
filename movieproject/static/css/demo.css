@@ -1,0 +1,31 @@
+body{
+    background: url("https://images.unsplash.com/photo-1505489435671-80a165c60816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1431&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: auto;
+    margin-bottom: 10px;
+}
+.container .jumbotron{
+    margin-top: 200px;
+    background: linear-gradient(45deg, red, blue);
+    color: white;
+    font-family: Tahoma, sans-serif;
+}
+table, tr, td, thead, th{
+    border: 2px solid white;
+    font-size: 30px;
+    color: white;
+    background: linear-gradient(45deg, red, blue);
+    margin: auto;
+}
+thead,th{
+    border: 2px solid red;
+    font-size: 30px;
+    color: blue;
+    margin: auto;
+    background: yellow;
+}
+h1{
+    text-align: center;
+    color: black;
+}
